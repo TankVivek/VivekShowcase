@@ -1,5 +1,3 @@
-# Portfolio Website README
-
 ## Overview
 This repository contains the source code for my personal portfolio website, hosted at [vivektank-portfolio.netlify.app](https://vivektank-portfolio.netlify.app/). The website showcases my skills, projects, and experience as a developer.
 
@@ -46,13 +44,4 @@ The website is deployed using [Netlify](https://www.netlify.com/). Changes pushe
 - Include a light/dark mode toggle.
 - Implement more advanced animations using GSAP or Framer Motion.
 - Enhance the contact form with CAPTCHA and backend integration for email notifications.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contact
-For any inquiries or feedback, feel free to reach out:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 
